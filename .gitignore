@@ -51,3 +51,7 @@ venv
 Vagrantfile
 .vagrant
 ansible.egg-info/
+.Python
+bin/
+include/
+lib/
